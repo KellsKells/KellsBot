@@ -1,6 +1,5 @@
 const Discord = require("discord.js");
 
-const TOKEN = "NDk4MDQ4OTE5NzU1MDMwNTU2.DqxOZg.e0cKA1g8v2y0Db-19QdI-IChDeQ";
 const PREFIX = "켈스야 ";
 var cat = "http://aws.random.cat//meow"
 

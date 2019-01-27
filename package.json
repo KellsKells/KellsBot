@@ -1,0 +1,19 @@
+{
+  "name": "kellsbot",
+  "version": "1.0.0",
+  "description": "KellsBot By KellsBot",
+  "main": "index.js",
+  "scripts": {
+    "start": "pm2 index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "discord.js-musicbot-addon": "^13.4.0",
+    "ffmpeg": "0.0.4",
+    "opusscript": "0.0.6",
+    "pm2": "^3.2.9",
+    "ytdl-core": "^0.26.3"
+  }
+}

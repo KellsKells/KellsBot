@@ -99,7 +99,7 @@ bot.on("message", function (message) {
                 var embed = new Discord.RichEmbed()
                     .addField("컴퓨터", "컴퓨터의 상태입니다!", true)
                     .addField("운영체제", `${os.type}`)
-                    .addField("남은 메모리," `${os.freemem}`,)
+                    .addField("남은 메모리", `${os.freemem}`,)
                     break;
                 }
             });

@@ -4,7 +4,7 @@
   "description": "KellsBot By KellsBot",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 index.js"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
